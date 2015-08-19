@@ -1,0 +1,5 @@
+Total Number Of Tweets Crawled:1000
+Number Of Positive Tweets:484
+Number Of Negative Tweets:169
+Number Of Neutral Tweets:347
+General Sentiment is Positive
